@@ -1,5 +1,6 @@
 # YT8-H
-A YouTube bookmarklet, It puts a movable iframe on any page.
+A YouTube bookmarklet, It puts a movable youtube iframe on any page.
+It uses yout-ube so there is no ads.
 ![demo1](demo1.png)
 
 # Keybinds
