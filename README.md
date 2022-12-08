@@ -5,13 +5,18 @@ It also hides the iframe when the mouse is off of the iframe.
 ![demo1](demo1.png)
 ## You can get it [here](https://raw.githubusercontent.com/YT8-H/YT8-H/main/YT8-H.js). (Ctrl+A, Ctrl+C, Add it as a bookmark, name it whatever you want).
 # Keybinds
-**Q:** Kill Iframe <br />  
 
-**G:** Show Iframe <br />  
+**-** Decrease size <br />  
+
+**+** Increase size (It is actually the = sign but just ignore that) <br />
+
+**Q** Kill Iframe <br />  
+
+**G** Show Iframe <br />  
 
 **(TBA)C:** Change Video <br />  
 
-**M:** Hide Iframe <br />  
+**M** Hide Iframe <br />  
 
-**Arrow Keys:** Move Iframe <br />  
+**Arrow Key:** Move Iframe <br />  
 
